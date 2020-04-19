@@ -1,5 +1,4 @@
-# tect_interview
-면접복기
+# tect_interview 면접복기
 
 ## Table of Contents
 ### **20200409기술면접**
